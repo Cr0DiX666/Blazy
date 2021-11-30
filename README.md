@@ -18,7 +18,7 @@ Blazy is a modern login page bruteforcer.
 ### Usages
 Open your terminal and enter
 ```
-git clone https://github.com/UltimateHackers/Blazy
+git clone https://github.com/RSecxXx/Blazy
 ```
 Now enter the following command
 ```
